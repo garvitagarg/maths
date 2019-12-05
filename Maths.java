@@ -23,6 +23,7 @@ class Rectangle extends Shape   //Rectangle class inherits from Shape class
 	}
 }
 class Square extends Shape   //Square class inherits from Shape class
+{
 	double side;
 	double area()     // //polymorphism(overriding method)
 	{
